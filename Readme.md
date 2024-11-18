@@ -31,4 +31,4 @@ For any inquiries or feedback, please reach out:
 
 - **Your Name** - [itecklab@gmail.com](mailto:itecklab@gmail.com)
 - **GitHub**: [iTechLab2024](https://github.com/iTechLab2024)
-- **Site**: [FLEdge site](https://fledge.ihu.gr/) , [SEED4AI]{https://seed4ai.ee.duth.gr/}
+- **Site**: [FLEdge site](https://fledge.ihu.gr/) , [SEED4AI](https://seed4ai.ee.duth.gr/)

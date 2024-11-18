@@ -14,7 +14,7 @@ Integration of the DT with other services and applications enabling enhanced fun
 
 If you use our datasets in a scientific publication, we would appreciate using the following citations:
 ```bibtex
-@article{papaioannou2024simulation,
+@article{Stogia3DModel,
   title={{I}ntegrating {I}o{T} in {D}igital {T}wins for {H}ome {E}nergy {M}anagement},
   author={Myrto Stogia, Vasilis Naserentin, Asimina Dimara, Orfeas Eleftheriou, Ioannis Tzitzios, Christophoros Papaioannou, Mariya Pantusheva, Alexios Papaioannou , George Spaias, Christos-Nikolaos Anagnostopoulos, Anders Logg and Stelios Krinidis},
   journal={Applied Science},

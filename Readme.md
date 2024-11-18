@@ -3,6 +3,7 @@ Systems:
 This repository accompanies the paper **"Integrating IoT in Digital Twins for Home Energy Management Systems"**. Our research explores how integrating IoT devices within digital twin frameworks can optimize energy management in smart homes.
 
 ## Citation:
+
 If you use our datasets in a scientific publication, we would appreciate using the following citations:
 ```bibtex
 @article{papaioannou2024simulation,
@@ -15,6 +16,7 @@ If you use our datasets in a scientific publication, we would appreciate using t
   year={2024},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
+```
 
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

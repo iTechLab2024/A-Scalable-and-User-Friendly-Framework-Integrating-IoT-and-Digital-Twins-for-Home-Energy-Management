@@ -1,4 +1,5 @@
-# Fledge-Paper: 
+# Integrating IoT in Digital Twins for Home Energy Management
+Systems: 
 This repository accompanies the paper **"Integrating IoT in Digital Twins for Home Energy Management Systems"**. Our research explores how integrating IoT devices within digital twin frameworks can optimize energy management in smart homes.
 
 # Citation:

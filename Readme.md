@@ -3,6 +3,7 @@ Systems:
 This repository accompanies the paper **"Integrating IoT in Digital Twins for Home Energy Management Systems"**. Our research explores how integrating IoT devices within digital twin frameworks can optimize energy management in smart homes.
 
 ## The generated 3D House Model 
+Integration of the DT with other services and applications enabling enhanced functionalities. This is the visualization of  the thermal comfort using the PMV index. 
 
 <p align="center">
   <img src="IntegratingIoTinDigitalTwinsforHomeEnergyManagement.gif" alt="Alt Text">

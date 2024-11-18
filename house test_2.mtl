@@ -1,0 +1,216 @@
+# FILE:house test_2.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_2
+Ka 0.857059 0.860706 0.820588
+Kd 0.377843 0.379451 0.361765
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Stucco_-_White_Rough
+Ka 0.75 0.75 0.75
+Kd 0.95 0.95 0.95
+Ks 0.0793725 0.0774902 0.0759216
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Stucco - White Rough cb -opt.jpg
+map_Kd house test_2_Textures\Stucco - White Rough cb -opt.jpg
+map_Ks house test_2_Textures\Stucco - White Rough cb -opt.jpg
+newmtl Paint_-_Titanium_White
+Ka 0.93 0.93 0.93
+Kd 0.41 0.41 0.41
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Paint_-_Sand_Beige
+Ka 0.769529 0.725765 0.623647
+Kd 0.339255 0.319961 0.274941
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Glass_-_Clear_Fast
+Ka 0.64 0.658667 0.648
+Kd 0.564706 0.581176 0.571765
+Ks 1 1 1
+illum 2
+d 0.31
+Ns 79.52
+newmtl Paint_-_Light_Gray
+Ka 0.612706 0.612706 0.612706
+Kd 0.270118 0.270118 0.270118
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Wood_-_Walnut_Horizontal
+Ka 0.273255 0.228588 0.194431
+Kd 0.252863 0.211529 0.179922
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Wood - Walnut Horizontal -opt.jpg
+map_Kd house test_2_Textures\Wood - Walnut Horizontal -opt.jpg
+map_Ks house test_2_Textures\Wood - Walnut Horizontal -opt.jpg
+newmtl Tiles_-_Tan_30x30
+Ka 0.527059 0.494118 0.463529
+Kd 0.527059 0.494118 0.463529
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Tiles - Tan 30x30 -opt.jpg
+map_Kd house test_2_Textures\Tiles - Tan 30x30 -opt.jpg
+map_Ks house test_2_Textures\Tiles - Tan 30x30 -opt.jpg
+newmtl Wood_-_Oak_Light
+Ka 0.536 0.499216 0.451922
+Kd 0.496 0.461961 0.418196
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Wood - Oak Light -opt.jpg
+map_Kd house test_2_Textures\Wood - Oak Light -opt.jpg
+map_Ks house test_2_Textures\Wood - Oak Light -opt.jpg
+newmtl Tiles_-_White_Matte_15x15
+Ka 0.7 0.7 0.7
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Tiles - White Matte 15x15 -opt.jpg
+map_Kd house test_2_Textures\Tiles - White Matte 15x15 -opt.jpg
+map_Ks house test_2_Textures\Tiles - White Matte 15x15 -opt.jpg
+newmtl Ceramic_-_Porcelain
+Ka 0.571355 0.585048 0.59
+Kd 0.629459 0.644545 0.65
+Ks 0.2 0.2 0.2
+illum 2
+Ns 9
+newmtl PEN_MATERIAL87
+Ka 0.44036 0.44036 0.44036
+Kd 0.44036 0.44036 0.44036
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_Glossy_White
+Ka 0.88 0.88 0.88
+Kd 0.3 0.3 0.3
+Ks 0.683104 0.683104 0.69
+illum 2
+Ns 38.56
+newmtl Paint_-_Ivory_Black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.356402 0.356402 0.36
+illum 2
+Ns 0.72
+newmtl Metal_-_Stainless_Steel
+Ka 0.532353 0.535294 0.567647
+Kd 0.390392 0.392549 0.416275
+Ks 0.82349 0.803961 0.787686
+illum 2
+Ns 13
+map_Ka house test_2_Textures\Metal - Stainless Steel -opt.jpg
+map_Kd house test_2_Textures\Metal - Stainless Steel -opt.jpg
+map_Ks house test_2_Textures\Metal - Stainless Steel -opt.jpg
+newmtl Metal_-_Chrome_01
+Ka 0.486863 0.486863 0.486863
+Kd 0.224706 0.224706 0.224706
+Ks 0.96 0.96 0.96
+illum 2
+Ns 53.92
+newmtl Wood_-_Pine_Grained_Horizontal
+Ka 0.572784 0.530745 0.454549
+Kd 0.530039 0.491137 0.420627
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Wood - Pine Grained Horizontal -opt.jpg
+map_Kd house test_2_Textures\Wood - Pine Grained Horizontal -opt.jpg
+map_Ks house test_2_Textures\Wood - Pine Grained Horizontal -opt.jpg
+newmtl Metal_-_Iron
+Ka 0.243016 0.252075 0.271919
+Kd 0.198562 0.205964 0.222178
+Ks 0.24902 0.24902 0.24902
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Metal - Iron -opt.jpg
+map_Kd house test_2_Textures\Metal - Iron -opt.jpg
+map_Ks house test_2_Textures\Metal - Iron -opt.jpg
+newmtl Metal_-_Aluminium
+Ka 0.71586 0.687236 0.687236
+Kd 0.128488 0.12335 0.12335
+Ks 0.544738 0.544738 0.544738
+illum 2
+Ns 10.2
+newmtl Glass_-_Mirror
+Ka 0.745098 0.786078 0.793529
+Kd 0.196078 0.206863 0.208824
+Ks 1 1 1
+illum 2
+Ns 46.24
+newmtl Paint_-_Dark_Gray
+Ka 0.331882 0.331882 0.331882
+Kd 0.146314 0.146314 0.146314
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl GDLM23_PEN_MATERIAL0
+Ka 0.844892 0.844892 0.844892
+Kd 0.844892 0.844892 0.844892
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Glass_-_Blue
+Ka 0.150118 0.196745 0.283176
+Kd 0.517647 0.678431 0.976471
+Ks 1 1 1
+illum 2
+d 0.78
+Ns 34
+newmtl Paint_-_Anthracite
+Ka 0.167765 0.167765 0.167765
+Kd 0.0739608 0.0739608 0.0739608
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl GDLM26_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_Celadon
+Ka 0.609059 0.722118 0.605412
+Kd 0.26851 0.318353 0.266902
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Textile_-_02
+Ka 0.161412 0.31898 0.378549
+Kd 0.214118 0.423137 0.502157
+Ks 0.331059 0.331059 0.331059
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Textile - 02 c -opt.jpg
+map_Kd house test_2_Textures\Textile - 02 c -opt.jpg
+map_Ks house test_2_Textures\Textile - 02 c -opt.jpg
+newmtl Textile_-_01
+Ka 0.660706 0.633176 0.608706
+Kd 0.762353 0.730588 0.702353
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka house test_2_Textures\Textile - 01 cb -opt.jpg
+map_Kd house test_2_Textures\Textile - 01 cb -opt.jpg
+map_Ks house test_2_Textures\Textile - 01 cb -opt.jpg
+newmtl Textile_-_01_(1)
+Ka 0.746341 0.740223 0.734106
+Kd 0.956847 0.949004 0.941161
+Ks 0 0 0
+illum 2
+Ns 100
+map_Ka house test_2_Textures\Textile - 01 cb -opt.jpg
+map_Kd house test_2_Textures\Textile - 01 cb -opt.jpg
+map_Ks house test_2_Textures\Textile - 01 cb -opt.jpg

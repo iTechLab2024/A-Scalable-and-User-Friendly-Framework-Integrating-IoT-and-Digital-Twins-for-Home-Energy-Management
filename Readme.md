@@ -3,10 +3,8 @@ Systems:
 This repository accompanies the paper **"Integrating IoT in Digital Twins for Home Energy Management Systems"**. Our research explores how integrating IoT devices within digital twin frameworks can optimize energy management in smart homes.
 
 
-<video width="600" controls>
-  <source src="Integrating IoT in Digital Twins for Home Energy Management.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Alt Text](IntegratingIoTinDigitalTwinsforHomeEnergyManagement.gif)
+
 
 ## Citation:
 
@@ -37,4 +35,4 @@ For any inquiries or feedback, please reach out:
 
 - **Your Name** - [itecklab@gmail.com](mailto:itecklab@gmail.com)
 - **GitHub**: [iTechLab2024](https://github.com/iTechLab2024)
-- **Site**: [FLEdge](https://fledge.ihu.gr/) , [SEED4AI](https://seed4ai.ee.duth.gr/)
+- **Site**: [FLEdge site](https://fledge.ihu.gr/) , [SEED4AI](https://seed4ai.ee.duth.gr/)

@@ -1,4 +1,4 @@
-# Integrating IoT in Digital Twins for Home Energy Management
+# A Scalable and User-Friendly Framework Integrating IoT and Digital Twins for Home Energy Management Systems
 Systems: 
 This repository accompanies the paper **"Integrating IoT in Digital Twins for Home Energy Management Systems"**. Our research explores how integrating IoT devices within digital twin frameworks can optimize energy management in smart homes.
 

@@ -19,7 +19,7 @@ Emergency intervention scenario within the ENACT Digital Twin interface and Norm
 Minor malfunction scenario for a monitored appliance within the ENACT Digital Twin.
 
 
-![Uploading UseCase_2-ezgif.com-video-to-gif-converter.gif…]()
+![UseCase_2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ed5b3f6f-71f7-4a84-bef7-b8dae6775b2e)
 
 
 ## Use case 3

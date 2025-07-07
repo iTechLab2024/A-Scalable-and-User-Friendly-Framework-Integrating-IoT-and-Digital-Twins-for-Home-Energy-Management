@@ -10,7 +10,7 @@ Integration of the DT with other services and applications enabling enhanced fun
 </p>
 
 
-
+# Use cases
 
 ## Use case 1 & 4
 Emergency intervention scenario within the ENACT Digital Twin interface and Normal operation scenario for the refrigerator within the ENACT Digital Twin interface.

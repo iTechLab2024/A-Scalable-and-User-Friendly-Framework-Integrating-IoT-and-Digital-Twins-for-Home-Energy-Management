@@ -10,9 +10,8 @@ Integration of the DT with other services and applications enabling enhanced fun
 </p>
 
 
-<p align="center">
-  <img src="![UseCase_1_4-ezgif com-crop(1)](https://github.com/user-attachments/assets/f7b5a142-2d70-4285-8d66-23ffa7199584)" alt="Alt Text">
-</p>
+![UseCase_1_4-ezgif com-crop(1)](https://github.com/user-attachments/assets/d0588f0a-e32b-4202-9259-43474d24aceb)
+
 
 ## Citation:
 

@@ -9,12 +9,34 @@ Integration of the DT with other services and applications enabling enhanced fun
   <img src="IntegratingIoTinDigitalTwinsforHomeEnergyManagement.gif" alt="Alt Text">
 </p>
 
+## Use case 1 & 4
+Emergency intervention scenario within the ENACT Digital Twin interface and Normal operation scenario for the refrigerator within the ENACT Digital Twin interface.
 
 ![UseCase_1_4-ezgif com-crop(1)](https://github.com/user-attachments/assets/d8da7a7f-af66-4c47-a0d7-334c5cc947c8)
 
 
+## Use case 2
+Minor malfunction scenario for a monitored appliance within the ENACT Digital Twin.
 
 
+
+https://github.com/user-attachments/assets/4e3b6d9c-049f-4f43-bc03-56b776dd7f3e
+
+
+## Use case 3
+Routine maintenance prompt for the washing machine within the ENACT Digital Twin.
+
+
+
+https://github.com/user-attachments/assets/bf4dc4fe-61e2-43a6-a44c-c53f8c794602
+
+
+## Use case 5
+Offline status notification for the refrigerator within the ENACT Digital Twin.
+
+
+
+https://github.com/user-attachments/assets/93caf26d-27f5-4336-8647-1d41d038c63d
 
 
 ## Citation:

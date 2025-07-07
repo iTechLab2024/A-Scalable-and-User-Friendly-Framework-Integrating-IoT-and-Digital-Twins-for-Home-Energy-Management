@@ -15,8 +15,6 @@ Integration of the DT with other services and applications enabling enhanced fun
 
 
 
-https://github.com/user-attachments/assets/14acf99c-102b-49b1-99d6-9a617350411a
-
 
 
 ## Citation:

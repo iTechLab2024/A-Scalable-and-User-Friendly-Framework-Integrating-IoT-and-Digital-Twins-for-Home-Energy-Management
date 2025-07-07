@@ -9,8 +9,15 @@ Integration of the DT with other services and applications enabling enhanced fun
   <img src="IntegratingIoTinDigitalTwinsforHomeEnergyManagement.gif" alt="Alt Text">
 </p>
 
+
+
+
 ## Use case 1 & 4
 Emergency intervention scenario within the ENACT Digital Twin interface and Normal operation scenario for the refrigerator within the ENACT Digital Twin interface.
+
+<p align="center">
+  <img src="Use cases/UseCase_1_4" alt="Alt Text">
+</p>
 
 ![UseCase_1_4-ezgif com-crop(1)](https://github.com/user-attachments/assets/d8da7a7f-af66-4c47-a0d7-334c5cc947c8)
 

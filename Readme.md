@@ -10,6 +10,10 @@ Integration of the DT with other services and applications enabling enhanced fun
 </p>
 
 
+<p align="center">
+  <img src="![UseCase_1_4-ezgif com-crop(1)](https://github.com/user-attachments/assets/f7b5a142-2d70-4285-8d66-23ffa7199584)" alt="Alt Text">
+</p>
+
 ## Citation:
 
 If you use our datasets in a scientific publication, we would appreciate using the following citations:

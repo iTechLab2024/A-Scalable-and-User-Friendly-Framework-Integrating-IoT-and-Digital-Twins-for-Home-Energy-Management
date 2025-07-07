@@ -19,24 +19,23 @@ Emergency intervention scenario within the ENACT Digital Twin interface and Norm
 Minor malfunction scenario for a monitored appliance within the ENACT Digital Twin.
 
 
-
-https://github.com/user-attachments/assets/4e3b6d9c-049f-4f43-bc03-56b776dd7f3e
+![Uploading UseCase_2-ezgif.com-video-to-gif-converter.gif…]()
 
 
 ## Use case 3
 Routine maintenance prompt for the washing machine within the ENACT Digital Twin.
 
+![UseCase_3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0f67d937-4c4d-4a2f-a263-cf497c974d39)
 
 
-https://github.com/user-attachments/assets/bf4dc4fe-61e2-43a6-a44c-c53f8c794602
 
 
 ## Use case 5
 Offline status notification for the refrigerator within the ENACT Digital Twin.
 
 
+![UseCase_5-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bd2ac42f-2643-4018-9130-14ace59620d0)
 
-https://github.com/user-attachments/assets/93caf26d-27f5-4336-8647-1d41d038c63d
 
 
 ## Citation:

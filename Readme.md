@@ -10,7 +10,10 @@ Integration of the DT with other services and applications enabling enhanced fun
 </p>
 
 
-![UseCase_1_4-ezgif com-crop(1)](https://github.com/user-attachments/assets/d0588f0a-e32b-4202-9259-43474d24aceb)
+
+
+https://github.com/user-attachments/assets/d54d62c9-25b3-41b2-b912-8961271a19a8
+
 
 
 ## Citation:

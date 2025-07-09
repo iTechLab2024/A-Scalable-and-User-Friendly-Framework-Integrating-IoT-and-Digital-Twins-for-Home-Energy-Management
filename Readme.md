@@ -10,41 +10,6 @@ Integration of the DT with other services and applications enabling enhanced fun
 </p>
 
 
-# Use cases
-
-## Use case 1 & 4
-Emergency intervention scenario within the ENACT Digital Twin interface and Normal operation scenario for the refrigerator within the ENACT Digital Twin interface.
-
-<p align="center">
-  <img src="Use cases/UseCase_1_4.gif" alt="Alt Text">
-</p>
-
-
-## Use case 2
-Minor malfunction scenario for a monitored appliance within the ENACT Digital Twin.
-
-<p align="center">
-  <img src="Use cases/UseCase_2.gif" alt="Alt Text">
-</p>
-
-
-## Use case 3
-Routine maintenance prompt for the washing machine within the ENACT Digital Twin.
-
-
-<p align="center">
-  <img src="Use cases/UseCase_3.gif" alt="Alt Text">
-</p>
-
-
-## Use case 5
-Offline status notification for the refrigerator within the ENACT Digital Twin.
-
-<p align="center">
-  <img src="Use cases/UseCase_5.gif" alt="Alt Text">
-</p>
-
-
 
 ## Citation:
 
